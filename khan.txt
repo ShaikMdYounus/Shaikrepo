@@ -1,4 +1,4 @@
 static void main()
 {
-
+i=1.1
 }
